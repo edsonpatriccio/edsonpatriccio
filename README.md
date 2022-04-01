@@ -5,6 +5,7 @@ Sou recém-formado em análise e desenvolvimento de sistemas pelo Instituto Fede
 - 🔭 No momento, estou fora do meracado detrabalho, contudo, continuo acompanhando a evolução das tecnologias atuais através de cursos de atualização curricular.
 - 🌱 Atualmente, estou atualizando meus conhecimentos e aprendendo técnicas de: Desenvolvimento WEB (fullstack), B.I, SAP BW, BPMN, PMBOOK, CLOUD COMPUTING e INTERNET DAS COISAS.
 - 🤝 Estou procurando recolocação no mercado de trabalho com intuíto de colaborar em projetos corporativos, equipes de estudo, visando a evolução e o aprendizado profundo.
+- Trailblazer: https://trailblazer.me/id/edsonpatricio
 
 ### 👩‍💻 línguas 🔝
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=edsonpatriccio&theme=blue-green)
